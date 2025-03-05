@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="ProjectFolder" xml:space="preserve"><value>Projektordner</value></data>
+  <data name="ProjectRootFolder" xml:space="preserve"><value>Projektstammordner:</value></data>
+  <data name="Select" xml:space="preserve"><value>Auswählen</value></data>
+  <data name="ApplyGitIgnoreFilter" xml:space="preserve"><value>.gitignore-Filter anwenden</value></data>
+  <data name="Options" xml:space="preserve"><value>Optionen</value></data>
+  <data name="CalculateFileStats" xml:space="preserve"><value>Dateistatistiken berechnen</value></data>
+  <data name="Stop" xml:space="preserve"><value>Stoppen</value></data>
+  <data name="ProjectStructure" xml:space="preserve"><value>Projektstruktur</value></data>
+  <data name="SelectedItemsStats" xml:space="preserve"><value>Statistiken der ausgewählten Elemente</value></data>
+  <data name="TaskUserRequest" xml:space="preserve"><value>Aufgabe / Benutzeranfrage</value></data>
+  <data name="DescribeYourTask" xml:space="preserve"><value>Beschreiben Sie Ihre Aufgabe:</value></data>
+  <data name="GenerateAIRequest" xml:space="preserve"><value>KI-Anfrage generieren</value></data>
+  <data name="PartialStructure" xml:space="preserve"><value>Teilstruktur</value></data>
+  <data name="FullStructure" xml:space="preserve"><value>Vollständige Struktur</value></data>
+  <data name="ReturnFullCodeForEachFile" xml:space="preserve"><value>Vollständigen Code für jede Datei zurückgeben</value></data>
+  <data name="IncludeExplanationSummary" xml:space="preserve"><value>Eine Zusammenfassung der Erklärungen einfügen</value></data>
+  <data name="GenerateRequest" xml:space="preserve"><value>Anfrage generieren</value></data>
+  <data name="AIInteraction" xml:space="preserve"><value>Interaktion mit KI</value></data>
+  <data name="ApplyChanges" xml:space="preserve"><value>Änderungen anwenden</value></data>
+  <data name="CalculatingStats" xml:space="preserve"><value>Statistiken werden berechnet...</value></data>
+  <data name="Done" xml:space="preserve"><value>Fertig</value></data>
+  <data name="Cancelled" xml:space="preserve"><value>Abgebrochen</value></data>
+  <data name="OriginalFilesForModification" xml:space="preserve"><value>Originaldateien zur Änderung:</value></data>
+  <data name="ReturnResultInJson" xml:space="preserve"><value>Geben Sie das Ergebnis im JSON-Format nur für die geänderten Dateien zurück (Schlüssel: delete, modify, create):</value></data>
+  <data name="ReturnFullCodeInstruction" xml:space="preserve"><value>Wichtig: Geben Sie den VOLLSTÄNDIGEN Code für jede geänderte Datei zurück. Kein lineStart/lineEnd erforderlich.</value></data>
+  <data name="LineStartEndInstruction" xml:space="preserve"><value>Wichtig: 'lineStart' und 'lineEnd' sind inklusive. Wenn Sie keinen vollständigen Code angeben, entfernt das Programm die Zeilen in diesem Bereich und fügt die neuen Codezeilen ein.</value></data>
+  <data name="IncludeExplanationInstruction" xml:space="preserve"><value>Geben Sie außerdem eine Zusammenfassung der Änderungen (was geändert, gelöscht oder erstellt wurde) getrennt vom JSON-Ausgabe an.</value></data>
+  <data name="CleanCodeInstruction" xml:space="preserve"><value>Stellen Sie außerdem sicher, dass die Änderungen den Prinzipien des 'Sauberen Codes' und bewährten Praktiken entsprechen, als wären sie von einem erfahrenen Entwickler geschrieben, der Optimierung und Lesbarkeit ausbalanciert.</value></data>
+  <data name="TestInstructions" xml:space="preserve"><value>Geben Sie nach dem JSON auch Anweisungen an, wie diese Änderungen getestet oder überprüft werden können.</value></data>
+  <data name="MultipleApproachesInstruction" xml:space="preserve"><value>Wenn mehrere Ansätze existieren, listen Sie diese vom besten zum schlechtesten auf.</value></data>
+  <data name="KeyPointsInstruction" xml:space="preserve"><value>Beschreiben Sie abschließend die wichtigsten geänderten Punkte, wie sie funktionieren und wie sie miteinander zusammenhängen.</value></data>
+  <data name="PasteJsonResponse" xml:space="preserve"><value>Bitte fügen Sie die JSON-Antwort der KI ein.</value></data>
+  <data name="ChangesAppliedSuccessfully" xml:space="preserve"><value>Änderungen erfolgreich angewendet.</value></data>
+  <data name="ErrorApplyingChanges" xml:space="preserve"><value>Fehler beim Anwenden der Änderungen</value></data>
+  <data name="ProjectInfo" xml:space="preserve"><value>Projektinformationen</value></data>
+  <data name="ProjectName" xml:space="preserve"><value>Projektname:</value></data>
+  <data name="TechStack" xml:space="preserve"><value>Technologie-Stack:</value></data>
+  <data name="Description" xml:space="preserve"><value>Beschreibung:</value></data>
+  <data name="AdditionalRequirements" xml:space="preserve"><value>Zusätzliche Anforderungen:</value></data>
+  <data name="NewProjectActions" xml:space="preserve"><value>Aktionen für neues Projekt</value></data>
+  <data name="CreateNewProject" xml:space="preserve"><value>Ein neues Projekt erstellen</value></data>
+  <data name="ResponseRequirements" xml:space="preserve"><value>Antwortanforderungen</value></data>
+  <data name="DoNotShortenCode" xml:space="preserve"><value>Verkürzen Sie den Code nicht; geben Sie den vollständigen Dateiinhalt an.</value></data>
+  <data name="NoTextToCopy" xml:space="preserve"><value>Kein Text zum Kopieren.</value></data>
+</root>

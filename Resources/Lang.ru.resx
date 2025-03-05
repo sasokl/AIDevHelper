@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="ProjectFolder" xml:space="preserve"><value>Папка проекта</value></data>
+  <data name="ProjectRootFolder" xml:space="preserve"><value>Корневая папка проекта:</value></data>
+  <data name="Select" xml:space="preserve"><value>Выбрать</value></data>
+  <data name="ApplyGitIgnoreFilter" xml:space="preserve"><value>Применить фильтр .gitignore</value></data>
+  <data name="Options" xml:space="preserve"><value>Опции</value></data>
+  <data name="CalculateFileStats" xml:space="preserve"><value>Рассчитать статистику файлов</value></data>
+  <data name="Stop" xml:space="preserve"><value>Остановить</value></data>
+  <data name="ProjectStructure" xml:space="preserve"><value>Структура проекта</value></data>
+  <data name="SelectedItemsStats" xml:space="preserve"><value>Статистика выбранных элементов</value></data>
+  <data name="TaskUserRequest" xml:space="preserve"><value>Задача / Запрос пользователя</value></data>
+  <data name="DescribeYourTask" xml:space="preserve"><value>Опишите вашу задачу:</value></data>
+  <data name="GenerateAIRequest" xml:space="preserve"><value>Сгенерировать запрос ИИ</value></data>
+  <data name="PartialStructure" xml:space="preserve"><value>Частичная структура</value></data>
+  <data name="FullStructure" xml:space="preserve"><value>Полная структура</value></data>
+  <data name="ReturnFullCodeForEachFile" xml:space="preserve"><value>Вернуть полный код для каждого файла</value></data>
+  <data name="IncludeExplanationSummary" xml:space="preserve"><value>Включить сводку объяснений</value></data>
+  <data name="GenerateRequest" xml:space="preserve"><value>Сгенерировать запрос</value></data>
+  <data name="AIInteraction" xml:space="preserve"><value>Взаимодействие с ИИ</value></data>
+  <data name="ApplyChanges" xml:space="preserve"><value>Применить изменения</value></data>
+  <data name="CalculatingStats" xml:space="preserve"><value>Расчет статистики...</value></data>
+  <data name="Done" xml:space="preserve"><value>Готово</value></data>
+  <data name="Cancelled" xml:space="preserve"><value>Отменено</value></data>
+  <data name="OriginalFilesForModification" xml:space="preserve"><value>Исходные файлы для изменения:</value></data>
+  <data name="ReturnResultInJson" xml:space="preserve"><value>Верните результат в формате JSON только для измененных файлов (ключи: delete, modify, create):</value></data>
+  <data name="ReturnFullCodeInstruction" xml:space="preserve"><value>Важно: Верните ПОЛНЫЙ код для каждого измененного файла. Не нужно lineStart/lineEnd.</value></data>
+  <data name="LineStartEndInstruction" xml:space="preserve"><value>Важно: 'lineStart' и 'lineEnd' являются инклюзивными. Если вы не предоставляете полный код, программа удалит строки в этом диапазоне и вставит новые строки кода.</value></data>
+  <data name="IncludeExplanationInstruction" xml:space="preserve"><value>Также предоставьте сводный список изменений (что было изменено, удалено или создано) отдельно от JSON-выхода.</value></data>
+  <data name="CleanCodeInstruction" xml:space="preserve"><value>Не сокращайте код; предоставьте полное содержимое файла.</value></data>
+  <data name="TestInstructions" xml:space="preserve"><value>Нет текста для копирования.</value></data>
+</root>

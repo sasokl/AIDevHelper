@@ -1,0 +1,20 @@
+[
+  "Models",
+  "Models/ProjectJsonModel.cs",
+  "Resources",
+  "Resources/Lang.de.resx",
+  "Resources/Lang.fr.resx",
+  "Resources/Lang.resx",
+  "Resources/Lang.ru.resx",
+  "Services",
+  "Services/FileManager.cs",
+  "Services/JsonHandler.cs",
+  "UI",
+  "UI/ModifyProjectPanel.cs",
+  "UI/ModifyProjectPanel.resx",
+  "UI/NewProjectPanel.cs",
+  "UI/ProjectStatsCalculator.cs",
+  "UI/TreeViewHelper.cs",
+  "MainForm.cs",
+  "Program.cs"
+]
